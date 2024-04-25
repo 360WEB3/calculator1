@@ -1,0 +1,8 @@
+body {
+  background-color: #03A0BB;
+}
+
+textarea {
+  width: 400px;  /* Ширина поля */
+  height: 200px; /* Высота поля */
+}
